@@ -9,3 +9,4 @@
 
 Perfect for learning React fundamentals like state, props, refs, conditional rendering, and event handling.
 
+![Quiz App Screenshot](https://github.com/BigEskander1/React_Projects/blob/main/quiz-app/Assets/Screenshot%20from%202025-07-14%2007-42-41.png?raw=true)
