@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-image: linear-gradient( to right,#eee8da, #b0cbe6);
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+ 
+}
