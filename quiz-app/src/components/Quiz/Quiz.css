@@ -63,10 +63,12 @@
 .container .correct{
     background-color: rgb(39, 189, 39);
     color: aliceblue;
+    border: 0px ;
 }
 
 .container .wrong{
     background-color: rgb(223, 95, 95);
     color: aliceblue;
+    border: 0px ;
 }
 
